@@ -1,4 +1,4 @@
-# Building a Chatbot with OpenAI and Node.js
+# Building a Chatbot with Express and OpenAI
 
 This project demonstrates how to build an interactive chatbot using Express (Node.js web framework) and OpenAI's API. The chatbot can engage in conversations and provide responses using OpenAI's powerful language models.
 
